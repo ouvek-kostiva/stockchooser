@@ -6,3 +6,5 @@
 > ##### http://ouvek.com/2017/04/29/getting-stockcodes2.html
 > ### listedPickle.ipynb 為將股票代碼從TEJ匯出檔（已刪除前兩行）取來
 > ##### http://ouvek.com/2017/04/29/getting-stockcodes.html
+> ### delistedCSV.ipynb 為終止上市公司從證交所網站CSV檔取來
+> ##### http://ouvek.com/2017/04/29/getting-stockcodes3.html
